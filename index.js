@@ -21,15 +21,19 @@ const people = [] ;
 
 
 for (let i = 0; i < 20; i++) {
+  const gender = randChoice(genders);
+  const firstName = randChoice(gender === 'male' ? namesMale : namesFemale);
+  const lastName = randChoice(lastNames);
   const person = {
-    gender: randChoice(genders),
+    gender,
     age: getRandomInt(18, 78),
+    firstName,
     phoneNumber: '+48 567' + getRandomInt(100000, 999999).toString(),
     // lastName: lastNames[Math.floor(Math.random() * lastNames.length)],
-    lastName: randChoice(lastNames),
+    lastName,
+    email: `${firstName.toLowerCase()}.${lastName.toLowerCase()}@gmail.com`,
   };
-  person.firstName = randChoice(person.gender === 'male' ? namesMale : namesFemale),
-  person.email = `${person.firstName.toLowerCase()}.${person.lastName.toLowerCase()}@gmail.com`;
+  // person.email = `${person.firstName.toLowerCase()}.${person.lastName.toLowerCase()}@gmail.com`;
 
   people.push(person);
 }
