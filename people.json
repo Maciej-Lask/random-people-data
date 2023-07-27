@@ -1,0 +1,162 @@
+[
+  {
+    "gender": "male",
+    "firstName": "George",
+    "lastName": "Smith",
+    "age": 35,
+    "phoneNumber": "+48 567525584",
+    "email": "george.smith@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Barbara",
+    "lastName": "Jones",
+    "age": 46,
+    "phoneNumber": "+48 567601108",
+    "email": "barbara.jones@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Barbara",
+    "lastName": "Brown",
+    "age": 20,
+    "phoneNumber": "+48 567284571",
+    "email": "barbara.brown@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "George",
+    "lastName": "Brown",
+    "age": 63,
+    "phoneNumber": "+48 567162255",
+    "email": "george.brown@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Patricia",
+    "lastName": "Smith",
+    "age": 27,
+    "phoneNumber": "+48 567546256",
+    "email": "patricia.smith@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Paul",
+    "lastName": "Jones",
+    "age": 63,
+    "phoneNumber": "+48 567309833",
+    "email": "paul.jones@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Williams",
+    "age": 54,
+    "phoneNumber": "+48 567151129",
+    "email": "linda.williams@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 41,
+    "phoneNumber": "+48 567853268",
+    "email": "john.brown@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Linda",
+    "lastName": "Jones",
+    "age": 29,
+    "phoneNumber": "+48 567421791",
+    "email": "linda.jones@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Williams",
+    "age": 47,
+    "phoneNumber": "+48 567882510",
+    "email": "john.williams@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Patricia",
+    "lastName": "Smith",
+    "age": 71,
+    "phoneNumber": "+48 567627104",
+    "email": "patricia.smith@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Ringo",
+    "lastName": "Jones",
+    "age": 47,
+    "phoneNumber": "+48 567670308",
+    "email": "ringo.jones@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 49,
+    "phoneNumber": "+48 567623278",
+    "email": "john.brown@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Ringo",
+    "lastName": "Williams",
+    "age": 29,
+    "phoneNumber": "+48 567369669",
+    "email": "ringo.williams@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "John",
+    "lastName": "Brown",
+    "age": 32,
+    "phoneNumber": "+48 567102267",
+    "email": "john.brown@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Paul",
+    "lastName": "Brown",
+    "age": 29,
+    "phoneNumber": "+48 567670350",
+    "email": "paul.brown@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "Ringo",
+    "lastName": "Johnson",
+    "age": 22,
+    "phoneNumber": "+48 567202510",
+    "email": "ringo.johnson@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Mary",
+    "lastName": "Smith",
+    "age": 52,
+    "phoneNumber": "+48 567403658",
+    "email": "mary.smith@gmail.com"
+  },
+  {
+    "gender": "female",
+    "firstName": "Barbara",
+    "lastName": "Jones",
+    "age": 72,
+    "phoneNumber": "+48 567550883",
+    "email": "barbara.jones@gmail.com"
+  },
+  {
+    "gender": "male",
+    "firstName": "George",
+    "lastName": "Smith",
+    "age": 19,
+    "phoneNumber": "+48 567384058",
+    "email": "george.smith@gmail.com"
+  }
+]
